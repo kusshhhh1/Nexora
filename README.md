@@ -25,7 +25,7 @@ Deployment: Docker, Vercel / AWS
 
 Installation
 Clone the repository:
-git clone https://github.com/yourusername/nexora.git
+git clone https://github.com/kusshhhh1/nexora.git
 cd nexora
 Install dependencies:
 npm install
